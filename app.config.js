@@ -1,0 +1,1 @@
+window.__PRODUCTION__ZANE_SPACE__CONF__={"VITE_GLOB_APP_TITLE":"赞恩空间","VITE_GLOB_APP_SHORT_NAME":"zane_space","VITE_GLOB_API_URL":"/api","VITE_GLOB_UPLOAD_URL":"/upload","VITE_GLOB_API_URL_PREFIX":""};Object.freeze(window.__PRODUCTION__ZANE_SPACE__CONF__);Object.defineProperty(window,"__PRODUCTION__ZANE_SPACE__CONF__",{configurable:false,writable:false,});
